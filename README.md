@@ -1,2 +1,2 @@
-# repositorio_test
+# repositorio_git
 Pensamento logico computacional com Python
